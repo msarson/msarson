@@ -1,35 +1,51 @@
-# Hi, I'm Mark Sarson
-### A passionate developer from England
+# Mark Sarson
 
-### Languages and Tools:
+**I build modern developer tooling for Clarion.**
 
-<table>
-<tr>
-<!-- Languages -->
-<td><a href="https://clarionsharp.com"><img src="https://msarson.gallerycdn.vsassets.io/extensions/msarson/clarion-extensions/0.9.6/1776941519821/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" alt="clarion"/></a></td>
-<td><a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></a></td>
-<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a></td>
-<td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a></td>
+Language server, VS Code extension, debugging support, accessibility — bringing a 4GL that the
+modern tooling ecosystem largely passed by into a workflow that feels like the rest of software
+development in 2026.
 
-<!-- Frameworks -->
-<td><a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/></a></td>
-<td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a></td>
-<td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a></td>
-<td><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/></a></td>
-</tr>
+📍 Southampton, UK
 
-<tr>
-<!-- Tools / Platforms -->
-<td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a></td>
-<td><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a></td>
-<td><a href="https://www.jenkins.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/></a></td>
-<td><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a></td>
-<td><a href="https://www.microsoft.com/en-us/sql-server"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/></a></td>
-<td><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msarson&show_icons=true&hide_border=true&cache_seconds=86400" />
-</p>
+---
+
+## Clarion Extensions for VS Code
+
+[![Installs](https://vsmarketplacebadges.dev/installs-short/msarson.clarion-extensions.svg)](https://marketplace.visualstudio.com/items?itemName=msarson.clarion-extensions)
+[![Rating](https://vsmarketplacebadges.dev/rating-short/msarson.clarion-extensions.svg)](https://marketplace.visualstudio.com/items?itemName=msarson.clarion-extensions)
+[![Version](https://vsmarketplacebadges.dev/version-short/msarson.clarion-extensions.svg)](https://marketplace.visualstudio.com/items?itemName=msarson.clarion-extensions)
+
+Full Clarion language support in VS Code — IntelliSense across 310+ built-in functions, class
+method resolution with inheritance, go-to-definition, find-all-references, workspace-wide rename,
+real-time diagnostics, refactorings, build integration and 50+ snippets.
+
+[Marketplace](https://marketplace.visualstudio.com/items?itemName=msarson.clarion-extensions) ·
+[Source](https://github.com/msarson/Clarion-Extension)
+
+---
+
+## The rest of the toolchain
+
+| Project | What it does |
+| --- | --- |
+| [**clarion-lsp**](https://github.com/msarson/clarion-lsp) | Language Server Protocol implementation — the engine behind the editor features |
+| [**clarion-pdb**](https://github.com/msarson/clarion-pdb) | Generates PDB files so Clarion binaries can be debugged with standard tooling |
+| [**clarion-accessible-list**](https://github.com/msarson/clarion-accessible-list) | Screen reader support for Clarion LIST controls |
+| [**ClarionMonacoEditor**](https://github.com/msarson/ClarionMonacoEditor) | Monaco editor hosted inside the Clarion IDE via WebView2 |
+| [**clarion-addins**](https://github.com/msarson/clarion-addins) | Publisher registry powering the Clarion Addin Finder |
+| [**ZipTools-for-Clarion**](https://github.com/msarson/ZipTools-for-Clarion) | Modern ZIP/UNZIP with threading and password support |
+
+---
+
+## Working with
+
+`Clarion` · `C#` / `.NET` · `TypeScript` · `PowerShell` · `Python`
+`SQL Server` · `PostgreSQL` · `Jenkins` · `Docker` · `Git`
+
+---
+
+<!--
+  Add links here once you've decided what to point at, e.g.:
+  [Website](https://example.com) · [LinkedIn](https://linkedin.com/in/...) · [Email](mailto:...)
+-->
