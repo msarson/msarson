@@ -1,10 +1,15 @@
 # Mark Sarson
 
-**I build modern developer tooling for Clarion.**
+**Clarion consultant and developer-tooling builder.**
 
-Language server, VS Code extension, debugging support, accessibility — bringing a 4GL that the
-modern tooling ecosystem largely passed by into a workflow that feels like the rest of software
-development in 2026.
+I've worked with Clarion since 1986 and contract with clients whose established systems are mainly
+Clarion-based. My consulting work focuses on modernising and extending those codebases: understanding
+legacy applications in depth, preserving what works, and bridging Clarion with modern technologies.
+I value correctness and maintainability over rushed delivery.
+
+My main public project is the Clarion extension for VS Code. It started as an idea, and despite
+having no previous experience with the Language Server Protocol, I developed it into a capable,
+practical tool for day-to-day Clarion development.
 
 📍 Southampton, UK
 
